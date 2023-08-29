@@ -1,2 +1,5 @@
-# binary_trees
-Binary Trees in C
+
+# Binary Trees
+
+In this Repository, I am studying Binary Trees in C.
+
